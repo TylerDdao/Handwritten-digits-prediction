@@ -5,7 +5,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 
-modelName = "models\model1_MNIST_20.h5"
+modelName = "model1_MNIST.h5"
 # Load the trained model
 model = tf.keras.models.load_model(modelName) # best model for image based classifier
 
