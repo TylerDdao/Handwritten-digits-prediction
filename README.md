@@ -9,4 +9,4 @@ After 20 training epochs the average validate accuracy is ~99.08% and validate l
 ![Figure_1](https://github.com/user-attachments/assets/21228b2a-67c0-432e-8ffb-94ea47868882)
 
 ## How to try
-Run
+Run the file `predicting.py`
